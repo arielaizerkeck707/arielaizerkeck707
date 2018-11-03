@@ -1812,7 +1812,7 @@
 					height: 100%;
 					width: 169%;
 				}
-				.box.style1 .money_img img {
+				.box.style1 #money_img img  {
 					height: auto;
 					position: absolute;
 					right: -349px !important;

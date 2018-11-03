@@ -1808,10 +1808,16 @@
 				.box.style1 .image img {
 					position: absolute;
 					top: 0;
+					right: -185px !important;
 					height: 100%;
-					width: auto;
+					width: 169%;
 				}
-
+				.box.style1 .money_img img {
+					height: auto;
+					position: absolute;
+					right: -349px !important;
+					width: 173%;
+				}
 			.box.style1 .inner > :last-child {
 				margin: 0;
 			}
